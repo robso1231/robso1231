@@ -14,4 +14,4 @@ Sou [Arthur] e sou um [Estudante de programação focado em desenvolvimento web 
 - Email: [arthurhliranco@gmail.com]
 - LinkedIN: [www.linkedin.com/in/arthur-liranço-araujo/]
 
-📊 **Estatísticas do GitHub (opcional):**
+📊 **Estatísticas do GitHub:**
