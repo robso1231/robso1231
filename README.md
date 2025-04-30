@@ -1,6 +1,6 @@
-### Olá! 👋 Seja bem-vindo(a) ao meu perfil GitHub!
+### Olá! 👋 Seja bem-vindo(a)!
 
-Sou [Arthur] e sou um [Sua Profissão/Área de Interesse, ex: estudante de programação apaixonado por desenvolvimento web, desenvolvedor full-stack curioso por inteligência artificial].
+Sou [Arthur] e sou um [Estudante de programação focado em desenvolvimento web e desenvolvimento full-stack].
 
 💻 **Habilidades:**
 - [Linguagem de Programação 1, Python]
@@ -8,7 +8,7 @@ Sou [Arthur] e sou um [Sua Profissão/Área de Interesse, ex: estudante de progr
 - [Linguagem de Programação 3, CSS]
 
 🚀 **Projetos em Destaque:**
-- [Nome do Projeto 1]: [Breve descrição do projeto. Link para o repositório: [https://github.com/robso1231/PIM2]]
+- [Painel LMS em Python]: [[https://github.com/robso1231/PIM2]]
 
 📫 **Entre em contato:**
 - [arthurhliranco@gmail.com]
