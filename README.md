@@ -8,10 +8,10 @@ Sou [Arthur] e sou um [Estudante de programação focado em desenvolvimento web 
 - [Linguagem de Programação 3, CSS]
 
 🚀 **Projetos em Destaque:**
-- [Painel LMS em Python]: [[https://github.com/robso1231/PIM2]]
+- [Painel LMS em Python]: [Painel desenvolvido para um sistema LMS:[https://github.com/robso1231/PIM2]]
 
 📫 **Entre em contato:**
 - [arthurhliranco@gmail.com]
-- [https://www.linkedin.com/in/arthur-liranço-araujo/]
+- [LinkedIN:[https://www.linkedin.com/in/arthur-liranço-araujo/]
 
 📊 **Estatísticas do GitHub (opcional):**
