@@ -41,3 +41,7 @@ Me chamo Arthur Liranço Araujo, estou atualmente focado em desenvolvimento Full
 
 <br/>
 <br/>
+
+<p align="center">
+  <img alt="GitHub Snake" src="https://github.com/tobiasmeyhoefer/tobiasmeyhoefer/blob/main/.github/workflows/snake.yml" />
+</p>
