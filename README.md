@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá! 👋 Seja bem-vindo(a) ao meu perfil GitHub!
 
-<!--
-**robso1231/robso1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou [Arthur] e sou um [Sua Profissão/Área de Interesse, ex: estudante de programação apaixonado por desenvolvimento web, desenvolvedor full-stack curioso por inteligência artificial].
 
-Here are some ideas to get you started:
+💻 **Habilidades:**
+- [Linguagem de Programação 1, Python]
+- [Linguagem de Programação 2, HTML]
+- [Linguagem de Programação 3, CSS]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos em Destaque:**
+- [Nome do Projeto 1]: [Breve descrição do projeto. Link para o repositório: [https://github.com/robso1231/PIM2]]
+
+📫 **Entre em contato:**
+- [arthurhliranco@gmail.com]
+- [https://www.linkedin.com/in/arthur-liranço-araujo/]
+
+📊 **Estatísticas do GitHub (opcional):**
