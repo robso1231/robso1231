@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Arthur Liranço
+# 👩🏻‍💻 Arthur Liranço Araujo
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Liranço Araujo, estou atualmente focado em desenvolvimento FullStack em HTML e Python
+Me chamo Arthur, estou atualmente focado em desenvolvimento FullStack em HTML e Python
 
 ### 🤖 Linguagens e Tecnologias
 
