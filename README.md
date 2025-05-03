@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur, estou atualmente focado em desenvolvimento FullStack em HTML e Python
+Me chamo Arthur, estou atualmente focado no estudo Full-Stack
 
 ### 🤖 Linguagens e Tecnologias
 
