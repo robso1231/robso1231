@@ -4,7 +4,7 @@
 
 Me chamo Arthur, estou atualmente focado no estudo Full-Stack
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
